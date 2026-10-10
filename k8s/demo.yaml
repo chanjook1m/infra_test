@@ -9,4 +9,4 @@ metadata:
   name: branch-change
   namespace: chargeops-demo
 data:
-  message: "version-1 from feature/cd-test"
+  message: "version-2 from feature/cd-test"
