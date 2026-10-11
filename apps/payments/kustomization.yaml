@@ -4,5 +4,5 @@ resources:
   - deployment.yaml
   - service.yaml
 images:
-  - name: docker.io/DOCKERHUB_USER/payments
+  - name: docker.io/chanjookim/payments
     newTag: dev

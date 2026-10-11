@@ -15,7 +15,7 @@ spec:
     spec:
       containers:
         - name: web
-          image: docker.io/DOCKERHUB_USER/
+          image: docker.io/chanjookim/
           imagePullPolicy: Always
           ports:
             - name: http

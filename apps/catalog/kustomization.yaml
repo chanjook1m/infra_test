@@ -4,5 +4,5 @@ resources:
   - deployment.yaml
   - service.yaml
 images:
-  - name: docker.io/DOCKERHUB_USER/catalog
+  - name: docker.io/chanjookim/catalog
     newTag: dev
