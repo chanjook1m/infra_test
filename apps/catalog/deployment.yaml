@@ -15,7 +15,7 @@ spec:
     spec:
       containers:
         - name: web
-          image: docker.io/chanjookim/
+          image: docker.io/chanjookim/catalog:dev
           imagePullPolicy: Always
           ports:
             - name: http
